@@ -1,0 +1,12 @@
+namespace: brachiolab
+default_queue: default
+role: researcher
+kubeconfig: ~/.kai/kubeconfig.yaml
+config_url: https://raw.githubusercontent.com/brachiolab/brachiolab-configs/main/brachiolab/shreyah.yaml
+config_base_url: https://raw.githubusercontent.com/brachiolab/brachiolab-configs/main/brachiolab
+queue_nodes:
+  default:
+  - carnaroli
+  - jasmine
+  - hylian
+  - koshihikari
