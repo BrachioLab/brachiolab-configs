@@ -1,5 +1,5 @@
 namespace: brachiolab
-default_queue: preemptible
+default_queue: default
 role: lab-manager
 kubeconfig: ~/.kai/kubeconfig.yaml
 config_url: https://raw.githubusercontent.com/brachiolab/brachiolab-configs/main/brachiolab/exwong.yaml
