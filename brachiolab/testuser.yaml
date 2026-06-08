@@ -1,4 +1,4 @@
-namespace: brachiolab
+namespace: testlab
 default_queue: default
 role: researcher
 kubeconfig: ~/.kai/kubeconfig.yaml
